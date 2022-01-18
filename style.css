@@ -1,0 +1,33 @@
+body
+{
+    background-color: orchid;
+}
+h1
+{
+font-size: medium;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 400;
+color: palegoldenrod;
+}
+
+h2
+{
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: palegreen;
+}
+
+h3
+{
+    font-size: 34px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: palegreen;
+}
+
+
+li
+{
+    background-color: paleturquoise;
+}
